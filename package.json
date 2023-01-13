@@ -1,0 +1,15 @@
+{
+  "name": "google-calendar-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "start": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil Sweeney",
+  "license": "ISC",
+  "dependencies": {
+    "nativefier": "^47.2.1"
+  }
+}
